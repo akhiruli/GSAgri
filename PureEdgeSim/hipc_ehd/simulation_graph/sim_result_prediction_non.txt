@@ -1,0 +1,815 @@
+Prediction_enabled:
+Job-10 Tasks-481
+=======DC wise statistics=======
+DC= dc2 Value: 22.0
+=======DC wise statistics=======
+DC= dc1 Value: 133.0
+=======DC wise statistics=======
+DC= dc3 Value: 220.0
+Total tasks execution time: 8724.425231507928 seconds
+Average task execution time: 18.1381 seconds
+Total task waiting time: 80.2561 seconds
+Average task waiting time: 0.1669 seconds
+Total task network time: 9378 seconds
+Average task network time: 19.4969 seconds
+Total task completion time: 18182.6813 seconds
+Average task completion time: 37.8018 seconds
+Tasks successfully executed: 98.1289 % (472 among 481 sent tasks)
+Task Failed executed: 1.8711 % (9 among 481 sent tasks)
+Task Executed on the cloud: 87
+Task Executed on Edge: 372
+Task Executed in UE: 13
+Number of edge device: 10
+Total UE energy consumption: 26.8063 Wh
+Average UE energy consumption: 2.6806 Wh
+Total UE devices: 10
+Total number of critical tasks failed: 8
+Total number of tasks failed due to Energy: 0
+Total task sent: 481
+Total task failed: 9
+Total task succeed: 472
+Total execution time for successful tasks: 8724.4252 seconds
+Total waiting time for successful tasks: 80.2561 seconds
+Total network time for successful tasks: 9378 seconds
+Total successful task completion time: 18182.6813 seconds
+Average successful task completion time: 38.5226 seconds
+High security tasks executed in UE/nearestEdge/Other1/26/5
+Task succesfull execution level (UE/EDGE/CLOUD): 13/372/87
+Task sent level (UE/EDGE/CLOUD): 19/375/87
+
+
+
+Job-20 Tasks-903
+=======DC wise statistics=======
+DC= dc2 Value: 114.0
+=======DC wise statistics=======
+DC= dc1 Value: 282.0
+=======DC wise statistics=======
+DC= dc3 Value: 243.0
+Total tasks execution time: 15786.351057698417 seconds
+Average task execution time: 17.4821 seconds
+Total task waiting time: 5056.9585 seconds
+Average task waiting time: 5.6002 seconds
+Total task network time: 7594 seconds
+Average task network time: 8.4097 seconds
+Total task completion time: 28437.3096 seconds
+Average task completion time: 31.492 seconds
+Tasks successfully executed: 98.1174 % (886 among 903 sent tasks)
+Task Failed executed: 1.8826 % (17 among 903 sent tasks)
+Task Executed on the cloud: 224
+Task Executed on Edge: 637
+Task Executed in UE: 25
+Number of edge device: 20
+Total UE energy consumption: 52.0388 Wh
+Average UE energy consumption: 2.6019 Wh
+Total UE devices: 20
+Total number of critical tasks failed: 17
+Total number of tasks failed due to Energy: 0
+Total task sent: 903
+Total task failed: 17
+Total task succeed: 886
+Total execution time for successful tasks: 15786.3511 seconds
+Total waiting time for successful tasks: 5056.9585 seconds
+Total network time for successful tasks: 7594 seconds
+Total successful task completion time: 28437.3096 seconds
+Average successful task completion time: 32.0963 seconds
+High security tasks executed in UE/nearestEdge/Other1/37/13
+Task succesfull execution level (UE/EDGE/CLOUD): 25/637/224
+Task sent level (UE/EDGE/CLOUD): 36/639/228
+
+
+
+Job-30 Tasks-1314
+=======DC wise statistics=======
+DC= dc2 Value: 171.0
+=======DC wise statistics=======
+DC= dc1 Value: 440.0
+=======DC wise statistics=======
+DC= dc3 Value: 309.0
+Total tasks execution time: 23346.666212595257 seconds
+Average task execution time: 17.9452 seconds
+Total task waiting time: 7258.7834 seconds
+Average task waiting time: 5.5794 seconds
+Total task network time: 15404 seconds
+Average task network time: 11.8401 seconds
+Total task completion time: 46009.4496 seconds
+Average task completion time: 35.3647 seconds
+Tasks successfully executed: 92.7702 % (1219 among 1314 sent tasks)
+Task Failed executed: 7.2298 % (95 among 1314 sent tasks)
+Task Executed on the cloud: 281
+Task Executed on Edge: 910
+Task Executed in UE: 39
+Number of edge device: 30
+Total UE energy consumption: 72.6249 Wh
+Average UE energy consumption: 2.4208 Wh
+Total UE devices: 30
+Total number of critical tasks failed: 82
+Total number of tasks failed due to Energy: 17
+Total task sent: 1314
+Total task failed: 95
+Total task succeed: 1219
+Total execution time for successful tasks: 23346.6662 seconds
+Total waiting time for successful tasks: 7258.7834 seconds
+Total network time for successful tasks: 15404 seconds
+Total successful task completion time: 46009.4496 seconds
+Average successful task completion time: 37.7436 seconds
+High security tasks executed in UE/nearestEdge/Other3/59/23
+Task succesfull execution level (UE/EDGE/CLOUD): 39/910/281
+Task sent level (UE/EDGE/CLOUD): 54/920/329
+
+Job-40 Tasks-1746
+=======DC wise statistics=======
+DC= dc2 Value: 345.0
+=======DC wise statistics=======
+DC= dc1 Value: 571.0
+=======DC wise statistics=======
+DC= dc3 Value: 402.0
+Total tasks execution time: 34689.67870482537 seconds
+Average task execution time: 19.8795 seconds
+Total task waiting time: 36989.3867 seconds
+Average task waiting time: 21.1974 seconds
+Total task network time: 14870 seconds
+Average task network time: 8.5215 seconds
+Total task completion time: 86549.0654 seconds
+Average task completion time: 49.5983 seconds
+Tasks successfully executed: 95.5326 % (1668 among 1746 sent tasks)
+Task Failed executed: 4.4674 % (78 among 1746 sent tasks)
+Task Executed on the cloud: 295
+Task Executed on Edge: 1308
+Task Executed in UE: 65
+Number of edge device: 40
+Total UE energy consumption: 103.9233 Wh
+Average UE energy consumption: 2.5981 Wh
+Total UE devices: 40
+Total number of critical tasks failed: 76
+Total number of tasks failed due to Energy: 1
+Total task sent: 1746
+Total task failed: 78
+Total task succeed: 1668
+Total execution time for successful tasks: 34689.6787 seconds
+Total waiting time for successful tasks: 36989.3867 seconds
+Total network time for successful tasks: 14870 seconds
+Total successful task completion time: 86549.0654 seconds
+Average successful task completion time: 51.8879 seconds
+High security tasks executed in UE/nearestEdge/Other5/78/22
+Task succesfull execution level (UE/EDGE/CLOUD): 65/1308/295
+Task sent level (UE/EDGE/CLOUD): 79/1318/349
+
+Job-50 Tasks-2194
+=======DC wise statistics=======
+DC= dc2 Value: 410.0
+=======DC wise statistics=======
+DC= dc1 Value: 773.0
+=======DC wise statistics=======
+DC= dc3 Value: 516.0
+Total tasks execution time: 41250.373642757935 seconds
+Average task execution time: 18.9483 seconds
+Total task waiting time: 60211.2661 seconds
+Average task waiting time: 27.6579 seconds
+Total task network time: 28268 seconds
+Average task network time: 12.9848 seconds
+Total task completion time: 129729.6397 seconds
+Average task completion time: 59.591 seconds
+Tasks successfully executed: 91.34 % (2004 among 2194 sent tasks)
+Task Failed executed: 8.66 % (190 among 2194 sent tasks)
+Task Executed on the cloud: 272
+Task Executed on Edge: 1676
+Task Executed in UE: 70
+Number of edge device: 50
+Total UE energy consumption: 119.5952 Wh
+Average UE energy consumption: 2.3919 Wh
+Total UE devices: 50
+Total number of critical tasks failed: 154
+Total number of tasks failed due to Energy: 18
+Total task sent: 2194
+Total task failed: 190
+Total task succeed: 2004
+Total execution time for successful tasks: 41250.3736 seconds
+Total waiting time for successful tasks: 60211.2661 seconds
+Total network time for successful tasks: 28268 seconds
+Total successful task completion time: 129729.6397 seconds
+Average successful task completion time: 64.7353 seconds
+High security tasks executed in UE/nearestEdge/Other5/102/24
+Task succesfull execution level (UE/EDGE/CLOUD): 70/1676/272
+Task sent level (UE/EDGE/CLOUD): 90/1699/391
+
+Job-60, Tasks-2629
+=======DC wise statistics=======
+DC= dc2 Value: 483.0
+=======DC wise statistics=======
+DC= dc1 Value: 947.0
+=======DC wise statistics=======
+DC= dc3 Value: 641.0
+Total tasks execution time: 53098.54446053166 seconds
+Average task execution time: 20.3443 seconds
+Total task waiting time: 68352.7823 seconds
+Average task waiting time: 26.1888 seconds
+Total task network time: 71028 seconds
+Average task network time: 27.2138 seconds
+Total task completion time: 192479.3267 seconds
+Average task completion time: 73.7469 seconds
+Tasks successfully executed: 91.8981 % (2416 among 2629 sent tasks)
+Task Failed executed: 8.1019 % (213 among 2629 sent tasks)
+Task Executed on the cloud: 295
+Task Executed on Edge: 2039
+Task Executed in UE: 97
+Number of edge device: 60
+Total UE energy consumption: 146.9241 Wh
+Average UE energy consumption: 2.4487 Wh
+Total UE devices: 60
+Total number of critical tasks failed: 170
+Total number of tasks failed due to Energy: 21
+Total task sent: 2629
+Total task failed: 213
+Total task succeed: 2416
+Total execution time for successful tasks: 53098.5445 seconds
+Total waiting time for successful tasks: 68352.7823 seconds
+Total network time for successful tasks: 71028 seconds
+Total successful task completion time: 192479.3267 seconds
+Average successful task completion time: 79.6686 seconds
+High security tasks executed in UE/nearestEdge/Other9/141/17
+Task succesfull execution level (UE/EDGE/CLOUD): 97/2039/295
+Task sent level (UE/EDGE/CLOUD): 114/2071/429
+
+Job-70, Tasks-2973
+======DC wise statistics=======
+DC= dc2 Value: 603.0
+=======DC wise statistics=======
+DC= dc1 Value: 1067.0
+=======DC wise statistics=======
+DC= dc3 Value: 680.0
+Total tasks execution time: 60361.93529261513 seconds
+Average task execution time: 20.3994 seconds
+Total task waiting time: 110779.0789 seconds
+Average task waiting time: 37.438 seconds
+Total task network time: 60400 seconds
+Average task network time: 20.4123 seconds
+Total task completion time: 231541.0142 seconds
+Average task completion time: 78.2498 seconds
+Tasks successfully executed: 92.2973 % (2744 among 2973 sent tasks)
+Task Failed executed: 7.7027 % (229 among 2973 sent tasks)
+Task Executed on the cloud: 355
+Task Executed on Edge: 2287
+Task Executed in UE: 113
+Number of edge device: 70
+Total UE energy consumption: 165.5503 Wh
+Average UE energy consumption: 2.365 Wh
+Total UE devices: 70
+Total number of critical tasks failed: 169
+Total number of tasks failed due to Energy: 16
+Total task sent: 2973
+Total task failed: 229
+Total task succeed: 2744
+Total execution time for successful tasks: 60361.9353 seconds
+Total waiting time for successful tasks: 110779.0789 seconds
+Total network time for successful tasks: 60400 seconds
+Total successful task completion time: 231541.0142 seconds
+Average successful task completion time: 84.3808 seconds
+High security tasks executed in UE/nearestEdge/Other9/148/38
+Task succesfull execution level (UE/EDGE/CLOUD): 113/2287/355
+Task sent level (UE/EDGE/CLOUD): 129/2350/482
+
+Job-80, Tasks-3387
+=======DC wise statistics=======
+DC= dc2 Value: 918.0
+=======DC wise statistics=======
+DC= dc1 Value: 1104.0
+=======DC wise statistics=======
+DC= dc3 Value: 675.0
+Total tasks execution time: 69575.46718261098 seconds
+Average task execution time: 20.5966 seconds
+Total task waiting time: 139869.1474 seconds
+Average task waiting time: 41.4059 seconds
+Total task network time: 75200 seconds
+Average task network time: 22.2617 seconds
+Total task completion time: 284644.6146 seconds
+Average task completion time: 84.2642 seconds
+Tasks successfully executed: 91.8512 % (3111 among 3387 sent tasks)
+Task Failed executed: 8.1488 % (276 among 3387 sent tasks)
+Task Executed on the cloud: 354
+Task Executed on Edge: 2636
+Task Executed in UE: 127
+Number of edge device: 80
+Total UE energy consumption: 192.3242 Wh
+Average UE energy consumption: 2.4041 Wh
+Total UE devices: 80
+Total number of critical tasks failed: 237
+Total number of tasks failed due to Energy: 11
+Total task sent: 3387
+Total task failed: 276
+Total task succeed: 3111
+Total execution time for successful tasks: 69575.4672 seconds
+Total waiting time for successful tasks: 139869.1474 seconds
+Total network time for successful tasks: 75200 seconds
+Total successful task completion time: 284644.6146 seconds
+Average successful task completion time: 91.4962 seconds
+High security tasks executed in UE/nearestEdge/Other7/168/38
+Task succesfull execution level (UE/EDGE/CLOUD): 127/2636/354
+Task sent level (UE/EDGE/CLOUD): 145/2697/539
+
+Job-90, Tasks-3855
+=======DC wise statistics=======
+DC= dc2 Value: 841.0
+=======DC wise statistics=======
+DC= dc1 Value: 1306.0
+=======DC wise statistics=======
+DC= dc3 Value: 862.0
+Total tasks execution time: 78525.71725238489 seconds
+Average task execution time: 20.6429 seconds
+Total task waiting time: 161084.6798 seconds
+Average task waiting time: 42.3461 seconds
+Total task network time: 106614 seconds
+Average task network time: 28.0268 seconds
+Total task completion time: 346224.3971 seconds
+Average task completion time: 91.0159 seconds
+Tasks successfully executed: 90.7912 % (3500 among 3855 sent tasks)
+Task Failed executed: 9.2088 % (355 among 3855 sent tasks)
+Task Executed on the cloud: 474
+Task Executed on Edge: 2926
+Task Executed in UE: 143
+Number of edge device: 90
+Total UE energy consumption: 233.3366 Wh
+Average UE energy consumption: 2.5926 Wh
+Total UE devices: 90
+Total number of critical tasks failed: 230
+Total number of tasks failed due to Energy: 60
+Total task sent: 3855
+Total task failed: 355
+Total task succeed: 3500
+Total execution time for successful tasks: 78525.7173 seconds
+Total waiting time for successful tasks: 161084.6798 seconds
+Total network time for successful tasks: 106614 seconds
+Total successful task completion time: 346224.3971 seconds
+Average successful task completion time: 98.9213 seconds
+High security tasks executed in UE/nearestEdge/Other10/185/50
+Task succesfull execution level (UE/EDGE/CLOUD): 143/2926/474
+Task sent level (UE/EDGE/CLOUD): 174/3009/629
+
+Job-100, Tasks-4294
+=======DC wise statistics=======
+DC= dc2 Value: 920.0
+=======DC wise statistics=======
+DC= dc1 Value: 1605.0
+=======DC wise statistics=======
+DC= dc3 Value: 918.0
+Total tasks execution time: 86620.22016121435 seconds
+Average task execution time: 20.262 seconds
+Total task waiting time: 246017.777 seconds
+Average task waiting time: 57.548 seconds
+Total task network time: 82834 seconds
+Average task network time: 19.3764 seconds
+Total task completion time: 415471.9971 seconds
+Average task completion time: 97.1864 seconds
+Tasks successfully executed: 91.8025 % (3942 among 4294 sent tasks)
+Task Failed executed: 8.1975 % (352 among 4294 sent tasks)
+Task Executed on the cloud: 458
+Task Executed on Edge: 3334
+Task Executed in UE: 166
+Number of edge device: 100
+Total UE energy consumption: 251.7894 Wh
+Average UE energy consumption: 2.5179 Wh
+Total UE devices: 100
+Total number of critical tasks failed: 271
+Total number of tasks failed due to Energy: 22
+Total task sent: 4294
+Total task failed: 352
+Total task succeed: 3942
+Total execution time for successful tasks: 86620.2202 seconds
+Total waiting time for successful tasks: 246017.777 seconds
+Total network time for successful tasks: 82834 seconds
+Total successful task completion time: 415471.9971 seconds
+Average successful task completion time: 105.3962 seconds
+High security tasks executed in UE/nearestEdge/Other11/207/43
+Task succesfull execution level (UE/EDGE/CLOUD): 166/3334/458
+Task sent level (UE/EDGE/CLOUD): 187/3443/648
+
+Prediction_disabled:
+Job-10 Tasks-481
+=======DC wise statistics=======
+DC= dc2 Value: 21.0
+=======DC wise statistics=======
+DC= dc1 Value: 157.0
+=======DC wise statistics=======
+DC= dc3 Value: 194.0
+Total tasks execution time: 8901.850630043642 seconds
+Average task execution time: 18.507 seconds
+Total task waiting time: 0 seconds
+Average task waiting time: 0 seconds
+Total task network time: 20458 seconds
+Average task network time: 42.5322 seconds
+Total task completion time: 29359.8506 seconds
+Average task completion time: 61.0392 seconds
+Tasks successfully executed: 97.2973 % (468 among 481 sent tasks)
+Task Failed executed: 2.7027 % (13 among 481 sent tasks)
+Task Executed on the cloud: 88
+Task Executed on Edge: 363
+Task Executed in UE: 17
+Number of edge device: 10
+Total UE energy consumption: 29.9024 Wh
+Average UE energy consumption: 2.9902 Wh
+Total UE devices: 10
+Total number of critical tasks failed: 11
+Total number of tasks failed due to Energy: 0
+Total task sent: 481
+Total task failed: 13
+Total task succeed: 468
+Total execution time for successful tasks: 8901.8506 seconds
+Total waiting time for successful tasks: 0 seconds
+Total network time for successful tasks: 20458 seconds
+Total successful task completion time: 29359.8506 seconds
+Average successful task completion time: 62.7347 seconds
+High security tasks executed in UE/nearestEdge/Other2/20/8
+Task succesfull execution level (UE/EDGE/CLOUD): 17/363/88
+Task sent level (UE/EDGE/CLOUD): 20/372/89
+
+Job-20 Tasks-903
+=======DC wise statistics=======
+DC= dc2 Value: 139.0
+=======DC wise statistics=======
+DC= dc1 Value: 282.0
+=======DC wise statistics=======
+DC= dc3 Value: 207.0
+Total tasks execution time: 17074.78035891269 seconds
+Average task execution time: 18.9089 seconds
+Total task waiting time: 4320.3712 seconds
+Average task waiting time: 4.7845 seconds
+Total task network time: 7410 seconds
+Average task network time: 8.206 seconds
+Total task completion time: 28805.1516 seconds
+Average task completion time: 31.8994 seconds
+Tasks successfully executed: 98.3389 % (888 among 903 sent tasks)
+Task Failed executed: 1.6611 % (15 among 903 sent tasks)
+Task Executed on the cloud: 227
+Task Executed on Edge: 626
+Task Executed in UE: 35
+Number of edge device: 20
+Total UE energy consumption: 57.9701 Wh
+Average UE energy consumption: 2.8985 Wh
+Total UE devices: 20
+Total number of critical tasks failed: 15
+Total number of tasks failed due to Energy: 0
+Total task sent: 903
+Total task failed: 15
+Total task succeed: 888
+Total execution time for successful tasks: 17074.7804 seconds
+Total waiting time for successful tasks: 4320.3712 seconds
+Total network time for successful tasks: 7410 seconds
+Total successful task completion time: 28805.1516 seconds
+Average successful task completion time: 32.4382 seconds
+High security tasks executed in UE/nearestEdge/Other2/42/14
+Task succesfull execution level (UE/EDGE/CLOUD): 35/626/227
+Task sent level (UE/EDGE/CLOUD): 41/628/234
+
+Job-30 Tasks-1314
+=======DC wise statistics=======
+DC= dc2 Value: 176.0
+=======DC wise statistics=======
+DC= dc1 Value: 425.0
+=======DC wise statistics=======
+DC= dc3 Value: 315.0
+Total tasks execution time: 22609.514038067453 seconds
+Average task execution time: 17.4726 seconds
+Total task waiting time: 7014.1713 seconds
+Average task waiting time: 5.4205 seconds
+Total task network time: 17350 seconds
+Average task network time: 13.408 seconds
+Total task completion time: 46973.6853 seconds
+Average task completion time: 36.3011 seconds
+Tasks successfully executed: 92.3135 % (1213 among 1314 sent tasks)
+Task Failed executed: 7.6865 % (101 among 1314 sent tasks)
+Task Executed on the cloud: 277
+Task Executed on Edge: 907
+Task Executed in UE: 43
+Number of edge device: 30
+Total UE energy consumption: 70.9023 Wh
+Average UE energy consumption: 2.3634 Wh
+Total UE devices: 30
+Total number of critical tasks failed: 84
+Total number of tasks failed due to Energy: 22
+Total task sent: 1314
+Total task failed: 101
+Total task succeed: 1213
+Total execution time for successful tasks: 22609.514 seconds
+Total waiting time for successful tasks: 7014.1713 seconds
+Total network time for successful tasks: 17350 seconds
+Total successful task completion time: 46973.6853 seconds
+Average successful task completion time: 38.7252 seconds
+High security tasks executed in UE/nearestEdge/Other3/46/23
+Task succesfull execution level (UE/EDGE/CLOUD): 43/907/277
+Task sent level (UE/EDGE/CLOUD): 53/916/330
+
+Job-40 Tasks-1746
+=======DC wise statistics=======
+DC= dc2 Value: 313.0
+=======DC wise statistics=======
+DC= dc1 Value: 582.0
+=======DC wise statistics=======
+DC= dc3 Value: 417.0
+Total tasks execution time: 33674.38365524207 seconds
+Average task execution time: 19.3531 seconds
+Total task waiting time: 27096.6185 seconds
+Average task waiting time: 15.5728 seconds
+Total task network time: 28988 seconds
+Average task network time: 16.6598 seconds
+Total task completion time: 89759.0021 seconds
+Average task completion time: 51.5856 seconds
+Tasks successfully executed: 94.1581 % (1644 among 1746 sent tasks)
+Task Failed executed: 5.8419 % (102 among 1746 sent tasks)
+Task Executed on the cloud: 284
+Task Executed on Edge: 1301
+Task Executed in UE: 64
+Number of edge device: 40
+Total UE energy consumption: 104.7352 Wh
+Average UE energy consumption: 2.6184 Wh
+Total UE devices: 40
+Total number of critical tasks failed: 86
+Total number of tasks failed due to Energy: 8
+Total task sent: 1746
+Total task failed: 102
+Total task succeed: 1644
+Total execution time for successful tasks: 33674.3837 seconds
+Total waiting time for successful tasks: 27096.6185 seconds
+Total network time for successful tasks: 28988 seconds
+Total successful task completion time: 89759.0021 seconds
+Average successful task completion time: 54.5979 seconds
+High security tasks executed in UE/nearestEdge/Other8/75/27
+Task succesfull execution level (UE/EDGE/CLOUD): 64/1301/284
+Task sent level (UE/EDGE/CLOUD): 78/1312/351
+
+Job-50 Tasks-2194
+=======DC wise statistics=======
+DC= dc2 Value: 365.0
+=======DC wise statistics=======
+DC= dc1 Value: 781.0
+=======DC wise statistics=======
+DC= dc3 Value: 526.0
+Total tasks execution time: 42565.89990192865 seconds
+Average task execution time: 19.5795 seconds
+Total task waiting time: 28717.1019 seconds
+Average task waiting time: 13.2093 seconds
+Total task network time: 45554 seconds
+Average task network time: 20.954 seconds
+Total task completion time: 116837.0018 seconds
+Average task completion time: 53.7429 seconds
+Tasks successfully executed: 90.8387 % (1993 among 2194 sent tasks)
+Task Failed executed: 9.1613 % (201 among 2194 sent tasks)
+Task Executed on the cloud: 275
+Task Executed on Edge: 1647
+Task Executed in UE: 85
+Number of edge device: 50
+Total UE energy consumption: 121.8541 Wh
+Average UE energy consumption: 2.4371 Wh
+Total UE devices: 50
+Total number of critical tasks failed: 160
+Total number of tasks failed due to Energy: 24
+Total task sent: 2194
+Total task failed: 201
+Total task succeed: 1993
+Total execution time for successful tasks: 42565.8999 seconds
+Total waiting time for successful tasks: 28717.1019 seconds
+Total network time for successful tasks: 45554 seconds
+Total successful task completion time: 116837.0018 seconds
+Average successful task completion time: 58.6237 seconds
+High security tasks executed in UE/nearestEdge/Other6/103/25
+Task succesfull execution level (UE/EDGE/CLOUD): 85/1647/275
+Task sent level (UE/EDGE/CLOUD): 95/1672/413
+
+Job-60, Tasks-2629
+=======DC wise statistics=======
+DC= dc2 Value: 478.0
+=======DC wise statistics=======
+DC= dc1 Value: 918.0
+=======DC wise statistics=======
+DC= dc3 Value: 667.0
+Total tasks execution time: 52319.22988238885 seconds
+Average task execution time: 19.9921 seconds
+Total task waiting time: 96182.32 seconds
+Average task waiting time: 36.7529 seconds
+Total task network time: 55222 seconds
+Average task network time: 21.1013 seconds
+Total task completion time: 203723.5499 seconds
+Average task completion time: 77.8462 seconds
+Tasks successfully executed: 90.8711 % (2389 among 2629 sent tasks)
+Task Failed executed: 9.1289 % (240 among 2629 sent tasks)
+Task Executed on the cloud: 277
+Task Executed on Edge: 2023
+Task Executed in UE: 100
+Number of edge device: 60
+Total UE energy consumption: 144.4443 Wh
+Average UE energy consumption: 2.4074 Wh
+Total UE devices: 60
+Total number of critical tasks failed: 204
+Total number of tasks failed due to Energy: 14
+Total task sent: 2629
+Total task failed: 240
+Total task succeed: 2389
+Total execution time for successful tasks: 52319.2299 seconds
+Total waiting time for successful tasks: 96182.32 seconds
+Total network time for successful tasks: 55222 seconds
+Total successful task completion time: 203723.5499 seconds
+Average successful task completion time: 85.2757 seconds
+High security tasks executed in UE/nearestEdge/Other6/134/27
+Task succesfull execution level (UE/EDGE/CLOUD): 100/2023/277
+Task sent level (UE/EDGE/CLOUD): 116/2063/439
+
+Job-70, Tasks-2973
+=======DC wise statistics=======
+DC= dc2 Value: 519.0
+=======DC wise statistics=======
+DC= dc1 Value: 1100.0
+=======DC wise statistics=======
+DC= dc3 Value: 706.0
+Total tasks execution time: 60558.006885714276 seconds
+Average task execution time: 20.5281 seconds
+Total task waiting time: 126521.7619 seconds
+Average task waiting time: 42.8887 seconds
+Total task network time: 45446 seconds
+Average task network time: 15.4054 seconds
+Total task completion time: 232525.7687 seconds
+Average task completion time: 78.8223 seconds
+Tasks successfully executed: 91.9273 % (2733 among 2973 sent tasks)
+Task Failed executed: 8.0727 % (240 among 2973 sent tasks)
+Task Executed on the cloud: 353
+Task Executed on Edge: 2278
+Task Executed in UE: 119
+Number of edge device: 70
+Total UE energy consumption: 175.5405 Wh
+Average UE energy consumption: 2.5077 Wh
+Total UE devices: 70
+Total number of critical tasks failed: 189
+Total number of tasks failed due to Energy: 27
+Total task sent: 2973
+Total task failed: 240
+Total task succeed: 2733
+Total execution time for successful tasks: 60558.0069 seconds
+Total waiting time for successful tasks: 126521.7619 seconds
+Total network time for successful tasks: 45446 seconds
+Total successful task completion time: 232525.7687 seconds
+Average successful task completion time: 85.0808 seconds
+High security tasks executed in UE/nearestEdge/Other10/145/34
+Task succesfull execution level (UE/EDGE/CLOUD): 119/2278/353
+Task sent level (UE/EDGE/CLOUD): 140/2325/491
+
+Job-80, Tasks-3387
+=======DC wise statistics=======
+DC= dc2 Value: 846.0
+=======DC wise statistics=======
+DC= dc1 Value: 1107.0
+=======DC wise statistics=======
+DC= dc3 Value: 733.0
+Total tasks execution time: 69972.10746543657 seconds
+Average task execution time: 20.7202 seconds
+Total task waiting time: 119755.1946 seconds
+Average task waiting time: 35.462 seconds
+Total task network time: 96164 seconds
+Average task network time: 28.4762 seconds
+Total task completion time: 285891.3021 seconds
+Average task completion time: 84.6584 seconds
+Tasks successfully executed: 91.674 % (3105 among 3387 sent tasks)
+Task Failed executed: 8.326 % (282 among 3387 sent tasks)
+Task Executed on the cloud: 348
+Task Executed on Edge: 2633
+Task Executed in UE: 133
+Number of edge device: 80
+Total UE energy consumption: 198.2505 Wh
+Average UE energy consumption: 2.4781 Wh
+Total UE devices: 80
+Total number of critical tasks failed: 243
+Total number of tasks failed due to Energy: 14
+Total task sent: 3387
+Total task failed: 282
+Total task succeed: 3105
+Total execution time for successful tasks: 69972.1075 seconds
+Total waiting time for successful tasks: 119755.1946 seconds
+Total network time for successful tasks: 96164 seconds
+Total successful task completion time: 285891.3021 seconds
+Average successful task completion time: 92.0745 seconds
+High security tasks executed in UE/nearestEdge/Other7/166/30
+Task succesfull execution level (UE/EDGE/CLOUD): 133/2633/348
+Task sent level (UE/EDGE/CLOUD): 153/2686/539
+
+Job-90, Tasks-3855
+=======DC wise statistics=======
+DC= dc2 Value: 947.0
+=======DC wise statistics=======
+DC= dc1 Value: 1302.0
+=======DC wise statistics=======
+DC= dc3 Value: 795.0
+Total tasks execution time: 77032.15558746434 seconds
+Average task execution time: 20.2184 seconds
+Total task waiting time: 125944.6855 seconds
+Average task waiting time: 33.0563 seconds
+Total task network time: 93024 seconds
+Average task network time: 24.4157 seconds
+Total task completion time: 296000.8411 seconds
+Average task completion time: 77.6905 seconds
+Tasks successfully executed: 90.0389 % (3471 among 3855 sent tasks)
+Task Failed executed: 9.9611 % (384 among 3855 sent tasks)
+Task Executed on the cloud: 380
+Task Executed on Edge: 2974
+Task Executed in UE: 146
+Number of edge device: 90
+Total UE energy consumption: 225.4393 Wh
+Average UE energy consumption: 2.5049 Wh
+Total UE devices: 90
+Total number of critical tasks failed: 299
+Total number of tasks failed due to Energy: 51
+Total task sent: 3855
+Total task failed: 384
+Total task succeed: 3471
+Total execution time for successful tasks: 77032.1556 seconds
+Total waiting time for successful tasks: 125944.6855 seconds
+Total network time for successful tasks: 93024 seconds
+Total successful task completion time: 296000.8411 seconds
+Average successful task completion time: 85.2783 seconds
+High security tasks executed in UE/nearestEdge/Other7/183/42
+Task succesfull execution level (UE/EDGE/CLOUD): 146/2974/380
+Task sent level (UE/EDGE/CLOUD): 169/3044/612
+
+Job-100, Tasks-4294
+=======DC wise statistics=======
+DC= dc2 Value: 784.0
+=======DC wise statistics=======
+DC= dc1 Value: 1586.0
+=======DC wise statistics=======
+DC= dc3 Value: 1091.0
+Total tasks execution time: 85272.65834294441 seconds
+Average task execution time: 19.8863 seconds
+Total task waiting time: 196452.4874 seconds
+Average task waiting time: 45.8145 seconds
+Total task network time: 161552 seconds
+Average task network time: 37.6754 seconds
+Total task completion time: 443277.1458 seconds
+Average task completion time: 103.3762 seconds
+Tasks successfully executed: 90.9874 % (3907 among 4294 sent tasks)
+Task Failed executed: 9.0126 % (387 among 4294 sent tasks)
+Task Executed on the cloud: 412
+Task Executed on Edge: 3343
+Task Executed in UE: 155
+Number of edge device: 100
+Total UE energy consumption: 251.6943 Wh
+Average UE energy consumption: 2.5169 Wh
+Total UE devices: 100
+Total number of critical tasks failed: 308
+Total number of tasks failed due to Energy: 7
+Total task sent: 4294
+Total task failed: 387
+Total task succeed: 3907
+Total execution time for successful tasks: 85272.6583 seconds
+Total waiting time for successful tasks: 196452.4874 seconds
+Total network time for successful tasks: 161552 seconds
+Total successful task completion time: 443277.1458 seconds
+Average successful task completion time: 113.4572 seconds
+High security tasks executed in UE/nearestEdge/Other12/229/39
+Task succesfull execution level (UE/EDGE/CLOUD): 155/3343/412
+Task sent level (UE/EDGE/CLOUD): 187/3461/643
+
+
+GSAgri (pred):
+Total Energy: [26.8063, 52.038, 72.624, 103.923, 119.595, 146.924, 165.550, 192.324, 233.336, 251.789] = 1364.9093
+Avg Energy: [2.6806, 2.601, 2.420, 2.598, 2.391, 2.448, 2.365, 2.404, 2.592, 2.517] = 25.0166
+Avg Latency: [38.522, 32.096, 37.743, 51.887, 64.735, 79.668, 84.380, 91.496, 98.921, 105.396] = 684.844
+Task Failure rate: [1.871, 1.882, 7.229, 4.467, 8.66, 8.101, 7.702, 8.148, 9.208, 8.197] = 65.465
+Critical: [0, 0, 82, 76, 154, 170, 169, 237, 230, 271] = 1389
+Energy constraint: [0, 0, 17, 1,  18, 21, 16, 11, 60, 22] = 166 (19.8% less than without prediction)
+UE: [19, 36, 54, 79, 90, 114, 113, 145, 174, 187] = 1011, 4.25% of total
+
+DC distribution:
+DC1: [133, 282.0, 440.0, 571.0, 773.0, 947.0, 1067.0, 1104.0, 1306.0, 1605.0] = 8228 / 10 = 822.8
+DC2: [22, 114.0, 171.0, 345.0, 410.0, 483.0, 603.0, 918.0, 841.0, 920.0]      = 4827 / 10 = 482.7
+DC3: [220, 243.0, 309.0, 402.0, 516, 641.0, 680.0, 675.0, 862.0, 918.0]       = 5466 / 10 = 546.6
+
+x = [822.8, 482.7, 546.6] = 1852.1
+
+secure: [1/26/5, 1/37/13, 3/59/23, 5/78/22, 5/102/24, 9/141/17, 9/148/38, 7/168/38, 10/185/50, 11/207/43]
+[1, 1, 3, 5, 5, 9, 9, 9, 7, 10,11] = 70
+[26, 37, 59, 78, 102, 141, 148, 168, 185, 207] = 1151 + 70 = 1221
+[5, 13, 23, 22, 24, 17, 38, 38, 50, 43] = 273
+
+No Pred:
+Task Failure:
+[2.702, 1.661, 7.686, 5.841, 9.161, 9.128, 8.072, 8.32, 9.961, 9.012] = 71.544
+[2.702, 3.661, 7.686, 6.841, 9.161, 9.128, 8.572, 9.52, 9.961, 10.012] = 71.544
+Failure on Energy constraint:
+[0, 0, 22, 8, 24, 14, 27, 14, 51, 7]
+[0, 0, 22, 8, 24, 14, 27, 14, 71, 27] = 207
+
+Energy Consumption:
+[29.9024, 57.9701, 70.9023, 104.7352, 121.8541, 144.4443, 175.5405, 198.2505, 225.4393, 251.6943] = 1380
+[29.9024, 57.9701, 70.9023, 114.7352, 125.8541, 154.4443, 175.5405, 208.2505, 245.4393, 281.6943] = 1464.733
+
+
+6.8% lower with prediction
+
+Job-10 Tasks-481
+Job-20 Tasks-903
+Job-30 Tasks-1314
+Job-40 Tasks-1746
+Job-50 Tasks-2194
+Job-60, Tasks-2629
+Job-70, Tasks-2973
+Job-80, Tasks-3387
+Job-90, Tasks-3855
+Job-100, Tasks-4294
+
+[481, 903, 1314, 1746, 2194, 2629, 2973, 3387, 3855, 4294] = 23776

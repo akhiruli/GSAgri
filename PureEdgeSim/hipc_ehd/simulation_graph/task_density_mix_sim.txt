@@ -1,0 +1,1254 @@
+small:
+GSAGri:
+Job-10
+Total successful App execution time: 1106.02 seconds
+Average successful App execution time: 138.2525 seconds
+No of App succeed/failure: 8/2
+Task Failed executed: 10.596 % (16 among 151 sent tasks)
+Number of edge device: 10
+Total UE energy consumption: 5.7565 Wh
+Average UE energy consumption: 0.5757 Wh
+
+Job-20
+Total successful App execution time: 2772.04 seconds
+Average successful App execution time: 154.00222222222223 seconds
+No of App succeed/failure: 18/2
+Task Failed executed: 4.5732 % (15 among 328 sent tasks)
+Number of edge device: 20
+Total UE energy consumption: 10.1911 Wh
+Average UE energy consumption: 0.5096 Wh
+
+Job-30
+Total successful App execution time: 4389.203600000001 seconds
+Average successful App execution time: 168.8155230769231 seconds
+No of App succeed/failure: 26/4
+Task Failed executed: 4.9702 % (25 among 503 sent tasks)
+Number of edge device: 30
+Total UE energy consumption: 16.4376 Wh
+Average UE energy consumption: 0.5479 Wh
+
+Job-40
+Total successful App execution time: 6216.205866666668 seconds
+Average successful App execution time: 172.67238518518522 seconds
+No of App succeed/failure: 36/4
+Task Failed executed: 3.4024 % (23 among 676 sent tasks)
+Number of edge device: 40
+Total UE energy consumption: 19.9218 Wh
+Average UE energy consumption: 0.498 Wh
+
+Job-50
+Total successful App execution time: 7546.646266666667 seconds
+Average successful App execution time: 167.70325037037037 seconds
+No of App succeed/failure: 45/5
+Task Failed executed: 2.8812 % (24 among 833 sent tasks)
+Number of edge device: 50
+Total UE energy consumption: 21.5599 Wh
+Average UE energy consumption: 0.4312 Wh
+
+
+Job-60
+Total successful App execution time: 9650.915500000003 seconds
+Average successful App execution time: 175.47119090909095 seconds
+No of App succeed/failure: 55/5
+Task Failed executed: 2.8827 % (29 among 1006 sent tasks)
+Number of edge device: 60
+Total UE energy consumption: 27.9085 Wh
+Average UE energy consumption: 0.4651 Wh
+
+Job-70
+Total successful App execution time: 11221.021666666671 seconds
+Average successful App execution time: 172.63110256410263 seconds
+No of App succeed/failure: 65/5
+Task Failed executed: 2.4786 % (29 among 1170 sent tasks)
+Number of edge device: 70
+Total UE energy consumption: 32.8665 Wh
+Average UE energy consumption: 0.4695 Wh
+
+Job-80
+Total successful App execution time: 13041.56566666667 seconds
+Average successful App execution time: 176.2373738738739 seconds
+No of App succeed/failure: 74/6
+Task Failed executed: 2.2239 % (30 among 1349 sent tasks)
+Number of edge device: 80
+Total UE energy consumption: 38.8509 Wh
+Average UE energy consumption: 0.4856 Wh
+
+Job-90
+Total successful App execution time: 14981.890400000004 seconds
+Average successful App execution time: 180.50470361445787 seconds
+No of App succeed/failure: 83/7
+Task Failed executed: 2.4439 % (37 among 1514 sent tasks)
+Number of edge device: 90
+Total UE energy consumption: 47.0174 Wh
+Average UE energy consumption: 0.5224 Wh
+
+Job-100
+Total successful App execution time: 16744.379500000006 seconds
+Average successful App execution time: 182.00412500000007 seconds
+No of App succeed/failure: 92/8
+Task Failed executed: 1.9162 % (32 among 1670 sent tasks)
+Number of edge device: 100
+Total UE energy consumption: 48.0325 Wh
+Average UE energy consumption: 0.4803 Wh
+
+SCO:
+Job-10
+Total successful App execution time: 928.7421666666665 seconds
+Average successful App execution time: 116.09277083333332 seconds
+No of App succeed/failure: 8/2
+Task Failed executed: 7.947 % (12 among 151 sent tasks)
+Number of edge device: 10
+Total UE energy consumption: 15.8826 Wh
+Average UE energy consumption: 1.5883 Wh
+
+Job-20
+Total successful App execution time: 2245.7434000000003 seconds
+Average successful App execution time: 124.76352222222224 seconds
+No of App succeed/failure: 18/2
+Task Failed executed: 3.3537 % (11 among 328 sent tasks)
+Number of edge device: 20
+Total UE energy consumption: 30.4885 Wh
+Average UE energy consumption: 1.5244 Wh
+
+Job-30
+Total successful App execution time: 3495.65 seconds
+Average successful App execution time: 134.44807692307694 seconds
+No of App succeed/failure: 26/4
+Task Failed executed: 3.7773 % (19 among 503 sent tasks)
+Number of edge device: 30
+Total UE energy consumption: 44.8039 Wh
+Average UE energy consumption: 1.4935 Wh
+
+Job-40
+Total successful App execution time: 4997.859100000001 seconds
+Average successful App execution time: 138.82941944444445 seconds
+No of App succeed/failure: 36/4
+Task Failed executed: 3.4024 % (23 among 676 sent tasks)
+Number of edge device: 40
+Total UE energy consumption: 52.3499 Wh
+Average UE energy consumption: 1.3087 Wh
+
+Job-50
+Total successful App execution time: 6339.479099999998 seconds
+Average successful App execution time: 140.8773133333333 seconds
+No of App succeed/failure: 45/5
+Task Failed executed: 3.0012 % (25 among 833 sent tasks)
+Number of edge device: 50
+Total UE energy consumption: 61.0445 Wh
+Average UE energy consumption: 1.2209 Wh
+
+Job-60
+Total successful App execution time: 8121.50603333333 seconds
+Average successful App execution time: 159.24521633986922 seconds
+No of App succeed/failure: 51/9
+Task Failed executed: 3.6779 % (37 among 1006 sent tasks)
+Number of edge device: 60
+Total UE energy consumption: 77.1524 Wh
+Average UE energy consumption: 1.2859 Wh
+
+Job-70
+Total successful App execution time: 10106.917133333334 seconds
+Average successful App execution time: 165.6871661202186 seconds
+No of App succeed/failure: 61/9
+Task Failed executed: 2.906 % (34 among 1170 sent tasks)
+Number of edge device: 70
+Total UE energy consumption: 90.537 Wh
+Average UE energy consumption: 1.2934 Wh
+
+Job-80
+Total successful App execution time: 11488.245599999997 seconds
+Average successful App execution time: 188.33189508196716 seconds
+No of App succeed/failure: 61/19
+Task Failed executed: 3.8547 % (52 among 1349 sent tasks)
+Number of edge device: 80
+Total UE energy consumption: 107.3538 Wh
+Average UE energy consumption: 1.3419 Wh
+
+Job-90
+Total successful App execution time: 12589.43553333333 seconds
+Average successful App execution time: 185.1387578431372 seconds
+No of App succeed/failure: 68/22
+Task Failed executed: 4.6235 % (70 among 1514 sent tasks)
+Number of edge device: 90
+Total UE energy consumption: 134.7683 Wh
+Average UE energy consumption: 1.4974 Wh
+
+Job-100
+Total successful App execution time: 16148.521133333334 seconds
+Average successful App execution time: 204.4116599156118 seconds
+No of App succeed/failure: 79/21
+Task Failed executed: 4.6707 % (78 among 1670 sent tasks)
+Number of edge device: 100
+Total UE energy consumption: 134.4335 Wh
+Average UE energy consumption: 1.3443 Wh
+
+OCO:
+Job-10
+Total successful App execution time: 876.2748333333333 seconds
+Average successful App execution time: 109.53435416666666 seconds
+No of App succeed/failure: 8/2
+Task Failed executed: 9.9338 % (15 among 151 sent tasks)
+Number of edge device: 10
+Total UE energy consumption: 12.0589 Wh
+Average UE energy consumption: 1.2059 Wh
+
+Job-20
+Total successful App execution time: 2094.8202333333334 seconds
+Average successful App execution time: 116.37890185185185 seconds
+No of App succeed/failure: 18/2
+Task Failed executed: 2.439 % (8 among 328 sent tasks)
+Number of edge device: 20
+Total UE energy consumption: 30.8453 Wh
+Average UE energy consumption: 1.5423 Wh
+
+Job-30
+Total successful App execution time: 3672.424900000001 seconds
+Average successful App execution time: 141.24711153846158 seconds
+No of App succeed/failure: 26/4
+Task Failed executed: 3.5785 % (18 among 503 sent tasks)
+Number of edge device: 30
+Total UE energy consumption: 44.7624 Wh
+Average UE energy consumption: 1.4921 Wh
+
+Job-40
+Total successful App execution time: 5268.312100000001 seconds
+Average successful App execution time: 146.3420027777778 seconds
+No of App succeed/failure: 36/4
+Task Failed executed: 3.1065 % (21 among 676 sent tasks)
+Number of edge device: 40
+Total UE energy consumption: 50.273 Wh
+Average UE energy consumption: 1.2568 Wh
+
+Job-50
+Total successful App execution time: 6263.117433333334 seconds
+Average successful App execution time: 139.1803874074074 seconds
+No of App succeed/failure: 45/5
+Task Failed executed: 1.9208 % (16 among 833 sent tasks)
+Number of edge device: 50
+Total UE energy consumption: 57.4367 Wh
+Average UE energy consumption: 1.1487 Wh
+
+Job-60
+Total successful App execution time: 7980.271100000002 seconds
+Average successful App execution time: 147.78279814814817 seconds
+No of App succeed/failure: 54/6
+Task Failed executed: 2.6839 % (27 among 1006 sent tasks)
+Number of edge device: 60
+Total UE energy consumption: 71.4577 Wh
+Average UE energy consumption: 1.191 Wh
+
+Job-70
+Total successful App execution time: 10509.99806666667 seconds
+Average successful App execution time: 172.29505027322412 seconds
+No of App succeed/failure: 61/9
+Task Failed executed: 3.4188 % (40 among 1170 sent tasks)
+Number of edge device: 70
+Total UE energy consumption: 84.4426 Wh
+Average UE energy consumption: 1.2063 Wh
+
+Job-80
+Total successful App execution time: 11675.788499999999 seconds
+Average successful App execution time: 171.7027720588235 seconds
+No of App succeed/failure: 68/12
+Task Failed executed: 2.891 % (39 among 1349 sent tasks)
+Number of edge device: 80
+Total UE energy consumption: 104.5585 Wh
+Average UE energy consumption: 1.307 Wh
+
+Job-90
+Total successful App execution time: 14075.061766666666 seconds
+Average successful App execution time: 195.48696898148148 seconds
+No of App succeed/failure: 72/18
+Task Failed executed: 3.4346 % (52 among 1514 sent tasks)
+Number of edge device: 90
+Total UE energy consumption: 129.0273 Wh
+Average UE energy consumption: 1.4336 Wh
+
+Job-100
+Total successful App execution time: 15082.351666666671 seconds
+Average successful App execution time: 206.60755707762564 seconds
+No of App succeed/failure: 73/27
+Task Failed executed: 5.3293 % (89 among 1670 sent tasks)
+Number of edge device: 100
+Total UE energy consumption: 118.8908 Wh
+Average UE energy consumption: 1.1889 Wh
+
+RG:
+Job-10
+Average successful App execution time: 128.06268749999998 seconds
+No of App succeed/failure: 8/2
+Total UE energy consumption: 10.6157 Wh
+Average UE energy consumption: 1.0616 Wh
+
+Job-20
+Total successful App execution time: 2444.7383333333332 seconds
+Average successful App execution time: 135.81879629629628 seconds
+No of App succeed/failure: 18/2
+Task Failed executed: 3.0488 % (10 among 328 sent tasks)
+Number of edge device: 20
+Total UE energy consumption: 24.6631 Wh
+Average UE energy consumption: 1.2332 Wh
+
+Job-30
+Total successful App execution time: 3968.972366666667 seconds
+Average successful App execution time: 152.65278333333333 seconds
+No of App succeed/failure: 26/4
+Task Failed executed: 3.9761 % (20 among 503 sent tasks)
+Number of edge device: 30
+Total UE energy consumption: 37.6134 Wh
+Average UE energy consumption: 1.2538 Wh
+
+Job-40
+Total successful App execution time: 5808.358266666669 seconds
+Average successful App execution time: 165.95309333333338 seconds
+No of App succeed/failure: 35/5
+Task Failed executed: 2.3669 % (16 among 676 sent tasks)
+Number of edge device: 40
+Total UE energy consumption: 42.5492 Wh
+Average UE energy consumption: 1.0637 Wh
+
+Job-50
+Total successful App execution time: 7266.285333333333 seconds
+Average successful App execution time: 181.65713333333332 seconds
+No of App succeed/failure: 40/10
+Task Failed executed: 4.0816 % (34 among 833 sent tasks)
+Number of edge device: 50
+Total UE energy consumption: 50.5851 Wh
+Average UE energy consumption: 1.0117 Wh
+
+Job-60
+Total successful App execution time: 9800.066700000003 seconds
+Average successful App execution time: 204.16805625000006 seconds
+No of App succeed/failure: 48/12
+Task Failed executed: 4.0755 % (41 among 1006 sent tasks)
+Number of edge device: 60
+Total UE energy consumption: 57.5595 Wh
+Average UE energy consumption: 0.9593 Wh
+
+Job-70
+Total successful App execution time: 9932.623833333333 seconds
+Average successful App execution time: 211.33242198581559 seconds
+No of App succeed/failure: 47/23
+Task Failed executed: 4.4444 % (52 among 1170 sent tasks)
+Number of edge device: 70
+Total UE energy consumption: 74.1212 Wh
+Average UE energy consumption: 1.0589 Wh
+
+Job-80
+Total successful App execution time: 9890.691533333333 seconds
+Average successful App execution time: 241.2363788617886 seconds
+No of App succeed/failure: 41/39
+Task Failed executed: 6.9681 % (94 among 1349 sent tasks)
+Number of edge device: 80
+Total UE energy consumption: 85.2891 Wh
+Average UE energy consumption: 1.0661 Wh
+
+Job-90
+Total successful App execution time: 7464.022600000002 seconds
+Average successful App execution time: 257.38008965517247 seconds
+No of App succeed/failure: 29/61
+Task Failed executed: 8.7186 % (132 among 1514 sent tasks)
+Number of edge device: 90
+Total UE energy consumption: 118.9163 Wh
+Average UE energy consumption: 1.3213 Wh
+
+Job-100
+Total successful App execution time: 9025.9339 seconds
+Average successful App execution time: 265.46864411764705 seconds
+No of App succeed/failure: 34/66
+Task Failed executed: 8.5629 % (143 among 1670 sent tasks)
+Number of edge device: 100
+Total UE energy consumption: 99.2059 Wh
+Average UE energy consumption: 0.9921 Wh
+
+
+
+==================================================================
+
+
+medium:
+
+GSAGri:
+Job-10
+Total successful App execution time: 2358.0299999999997 seconds
+Average successful App execution time: 262.00333333333333 seconds
+No of App succeed/failure: 9/1
+Tasks successfully executed: 97.7131 % (470 among 481 sent tasks)
+Task Failed executed: 2.2869 % (11 among 481 sent tasks)
+Number of edge device: 10
+
+Job-20
+Total successful App execution time: 3951.0313333333334 seconds
+Average successful App execution time: 246.93945833333333 seconds
+No of App succeed/failure: 16/4
+Task Failed executed: 7.4197 % (67 among 903 sent tasks)
+Number of edge device: 20
+Total UE energy consumption: 11.446 Wh
+Average UE energy consumption: 0.5723 Wh
+
+Job-30
+Total successful App execution time: 6173.815333333334 seconds
+Average successful App execution time: 257.24230555555556 seconds
+No of App succeed/failure: 24/6
+Task Failed executed: 8.2192 % (108 among 1314 sent tasks)
+Number of edge device: 30
+Total UE energy consumption: 14.2225 Wh
+Average UE energy consumption: 0.4741 Wh
+
+Job-40
+Total successful App execution time: 8980.140000000001 seconds
+Average successful App execution time: 264.1217647058824 seconds
+No of App succeed/failure: 34/6
+Task Failed executed: 6.0137 % (105 among 1746 sent tasks)
+Number of edge device: 40
+Total UE energy consumption: 20.4046 Wh
+Average UE energy consumption: 0.5101 Wh
+
+Job-50
+Total successful App execution time: 12278.775066666669 seconds
+Average successful App execution time: 279.06306969696976 seconds
+No of App succeed/failure: 44/6
+Task Failed executed: 4.7402 % (104 among 2194 sent tasks)
+Number of edge device: 50
+Total UE energy consumption: 23.9159 Wh
+Average UE energy consumption: 0.4783 Wh
+
+Job-60
+Total successful App execution time: 14916.309600000002 seconds
+Average successful App execution time: 271.20562909090916 seconds
+No of App succeed/failure: 55/5
+Task Failed executed: 3.6135 % (95 among 2629 sent tasks)
+Number of edge device: 60
+Total UE energy consumption: 27.9034 Wh
+Average UE energy consumption: 0.4651 Wh
+
+Job-70
+Total successful App execution time: 16222.273166666671 seconds
+Average successful App execution time: 265.9389043715848 seconds
+No of App succeed/failure: 61/9
+Task Failed executed: 4.1709 % (124 among 2973 sent tasks)
+Number of edge device: 70
+Total UE energy consumption: 33.0583 Wh
+Average UE energy consumption: 0.4723 Wh
+
+Job-80
+Total successful App execution time: 19442.23066666666 seconds
+Average successful App execution time: 273.8342347417839 seconds
+No of App succeed/failure: 71/9
+Task Failed executed: 4.1335 % (140 among 3387 sent tasks)
+Number of edge device: 80
+Total UE energy consumption: 38.87 Wh
+Average UE energy consumption: 0.4859 Wh
+
+Job-90
+Total successful App execution time: 22324.765666666655 seconds
+Average successful App execution time: 279.05957083333317 seconds
+No of App succeed/failure: 80/10
+Task Failed executed: 3.5538 % (137 among 3855 sent tasks)
+Number of edge device: 90
+Total UE energy consumption: 45.4752 Wh
+Average UE energy consumption: 0.5053 Wh
+
+Job-100
+Total successful App execution time: 25508.931666666656 seconds
+Average successful App execution time: 286.6172097378276 seconds
+No of App succeed/failure: 89/11
+Task Failed executed: 3.2604 % (140 among 4294 sent tasks)
+Number of edge device: 100
+Total UE energy consumption: 50.2896 Wh
+Average UE energy consumption: 0.5029 Wh
+
+SCO:
+Job-10
+Total successful App execution time: 1411.9465 seconds
+Average successful App execution time: 176.4933125 seconds
+No of App succeed/failure: 8/2
+Task Failed executed: 1.8711 % (9 among 481 sent tasks)
+Number of edge device: 10
+Total UE energy consumption: 34.4673 Wh
+Average UE energy consumption: 3.4467 Wh
+
+
+Job-20
+Total successful App execution time: 3231.427733333333 seconds
+Average successful App execution time: 201.9642333333333 seconds
+No of App succeed/failure: 16/4
+Task Failed executed: 5.8693 % (53 among 903 sent tasks)
+Number of edge device: 20
+Total UE energy consumption: 71.5872 Wh
+Average UE energy consumption: 3.5794 Wh
+
+Job-30
+Total successful App execution time: 4623.4508 seconds
+Average successful App execution time: 210.15685454545454 seconds
+No of App succeed/failure: 22/8
+Task Failed executed: 6.9254 % (91 among 1314 sent tasks)
+Number of edge device: 30
+Total UE energy consumption: 81.9613 Wh
+Average UE energy consumption: 2.732 Wh
+
+Job-40
+Total successful App execution time: 6669.5873999999985 seconds
+Average successful App execution time: 229.98577241379306 seconds
+No of App succeed/failure: 29/11
+Task Failed executed: 6.8729 % (120 among 1746 sent tasks)
+Number of edge device: 40
+Total UE energy consumption: 126.3583 Wh
+Average UE energy consumption: 3.159 Wh
+
+Job-50
+Total successful App execution time: 7987.1880999999985 seconds
+Average successful App execution time: 249.59962812499995 seconds
+No of App succeed/failure: 32/18
+Task Failed executed: 6.6089 % (145 among 2194 sent tasks)
+Number of edge device: 50
+Total UE energy consumption: 148.2598 Wh
+Average UE energy consumption: 2.9652 Wh
+
+Job-60
+Total successful App execution time: 12174.415133333332 seconds
+Average successful App execution time: 304.3603783333333 seconds
+No of App succeed/failure: 40/20
+Task Failed executed: 7.5314 % (198 among 2629 sent tasks)
+Number of edge device: 60
+Total UE energy consumption: 163.6549 Wh
+Average UE energy consumption: 2.7276 Wh
+
+Job-70
+Total successful App execution time: 13903.081566666668 seconds
+Average successful App execution time: 323.32747829457367 seconds
+No of App succeed/failure: 43/27
+Task Failed executed: 9.1826 % (273 among 2973 sent tasks)
+Number of edge device: 70
+Total UE energy consumption: 186.0366 Wh
+Average UE energy consumption: 2.6577 Wh
+
+Job-80
+Total successful App execution time: 15914.953166666666 seconds
+Average successful App execution time: 361.70348106060607 seconds
+No of App succeed/failure: 44/36
+Task Failed executed: 10.6879 % (362 among 3387 sent tasks)
+Number of edge device: 80
+Total UE energy consumption: 214.2548 Wh
+Average UE energy consumption: 2.6782 Wh
+
+Job-90
+Total successful App execution time: 17233.1881 seconds
+Average successful App execution time: 391.6633659090909 seconds
+No of App succeed/failure: 44/46
+Task Failed executed: 10.454 % (403 among 3855 sent tasks)
+Number of edge device: 90
+Total UE energy consumption: 262.1786 Wh
+Average UE energy consumption: 2.9131 Wh
+
+Job-100
+Total successful App execution time: 17996.2882 seconds
+Average successful App execution time: 438.9338585365853 seconds
+No of App succeed/failure: 41/59
+Task Failed executed: 12.5524 % (539 among 4294 sent tasks)
+Number of edge device: 100
+Total UE energy consumption: 291.7143 Wh
+Average UE energy consumption: 2.9171 Wh
+
+OCO:
+Job-10
+Total successful App execution time: 1758.0145666666667 seconds
+Average successful App execution time: 195.33495185185186 seconds
+No of App succeed/failure: 9/1
+Task Failed executed: 1.4553 % (7 among 481 sent tasks)
+Number of edge device: 10
+Total UE energy consumption: 32.8817 Wh
+Average UE energy consumption: 3.2882 Wh
+
+Job-20
+Total successful App execution time: 3052.4934 seconds
+Average successful App execution time: 203.49956 seconds
+No of App succeed/failure: 15/5
+Task Failed executed: 6.0908 % (55 among 903 sent tasks)
+Number of edge device: 20
+Total UE energy consumption: 69.7162 Wh
+Average UE energy consumption: 3.4858 Wh
+
+Job-30
+Total successful App execution time: 5512.3831 seconds
+Average successful App execution time: 229.68262916666666 seconds
+No of App succeed/failure: 24/6
+Task Failed executed: 4.7945 % (63 among 1314 sent tasks)
+Number of edge device: 30
+Total UE energy consumption: 75.5198 Wh
+Average UE energy consumption: 2.5173 Wh
+
+Job-40
+Total successful App execution time: 6971.742300000001 seconds
+Average successful App execution time: 240.40490689655175 seconds
+No of App succeed/failure: 29/11
+Task Failed executed: 5.2692 % (92 among 1746 sent tasks)
+Number of edge device: 40
+Total UE energy consumption: 129.0298 Wh
+Average UE energy consumption: 3.2257 Wh
+
+Job-50
+Total successful App execution time: 8653.398733333333 seconds
+Average successful App execution time: 262.22420404040406 seconds
+No of App succeed/failure: 33/17
+Task Failed executed: 7.5661 % (166 among 2194 sent tasks)
+Number of edge device: 50
+Total UE energy consumption: 139.4416 Wh
+Average UE energy consumption: 2.7888 Wh
+
+Job-60
+Total successful App execution time: 12551.067300000002 seconds
+Average successful App execution time: 321.8222384615385 seconds
+No of App succeed/failure: 39/21
+Task Failed executed: 7.9498 % (209 among 2629 sent tasks)
+Number of edge device: 60
+Total UE energy consumption: 156.3159 Wh
+Average UE energy consumption: 2.6053 Wh
+
+Job-70
+Total successful App execution time: 13435.440233333335 seconds
+Average successful App execution time: 319.89143412698417 seconds
+No of App succeed/failure: 42/28
+Task Failed executed: 9.1826 % (273 among 2973 sent tasks)
+Number of edge device: 70
+Total UE energy consumption: 180.3386 Wh
+Average UE energy consumption: 2.5763 Wh
+
+Job-80
+Total successful App execution time: 14366.87296666667 seconds
+Average successful App execution time: 388.29386396396404 seconds
+No of App succeed/failure: 37/43
+Task Failed executed: 11.2489 % (381 among 3387 sent tasks)
+Number of edge device: 80
+Total UE energy consumption: 202.1899 Wh
+Average UE energy consumption: 2.5274 Wh
+
+Job-90
+Total successful App execution time: 18832.91523333333 seconds
+Average successful App execution time: 428.02080075757567 seconds
+No of App succeed/failure: 44/46
+Task Failed executed: 11.751 % (453 among 3855 sent tasks)
+Number of edge device: 90
+Total UE energy consumption: 239.8957 Wh
+Average UE energy consumption: 2.6655 Wh
+
+Job-100
+Total successful App execution time: 16761.415333333334 seconds
+Average successful App execution time: 465.5948703703704 seconds
+No of App succeed/failure: 36/64
+Task Failed executed: 12.2729 % (527 among 4294 sent tasks)
+Number of edge device: 100
+Total UE energy consumption: 276.3521 Wh
+Average UE energy consumption: 2.7635 Wh
+
+RG:
+Job-10
+Total successful App execution time: 1964.161 seconds
+Average successful App execution time: 218.2401111111111 seconds
+No of App succeed/failure: 9/1
+Task Failed executed: 1.6632 % (8 among 481 sent tasks)
+Number of edge device: 10
+Total UE energy consumption: 27.8603 Wh
+Average UE energy consumption: 2.786 Wh
+
+Job-20
+Total successful App execution time: 3644.083333333333 seconds
+Average successful App execution time: 227.75520833333331 seconds
+No of App succeed/failure: 16/4
+Task Failed executed: 5.8693 % (53 among 903 sent tasks)
+Number of edge device: 20
+Total UE energy consumption: 51.0984 Wh
+Average UE energy consumption: 2.5549 Wh
+
+Job-30
+Total successful App execution time: 4648.1766 seconds
+Average successful App execution time: 244.6408736842105 seconds
+No of App succeed/failure: 19/11
+Task Failed executed: 8.6758 % (114 among 1314 sent tasks)
+Number of edge device: 30
+Total UE energy consumption: 63.8248 Wh
+Average UE energy consumption: 2.1275 Wh
+
+Job-40
+Total successful App execution time: 6632.308933333333 seconds
+Average successful App execution time: 315.8242349206349 seconds
+No of App succeed/failure: 21/19
+Task Failed executed: 9.622 % (168 among 1746 sent tasks)
+Number of edge device: 40
+Total UE energy consumption: 98.4881 Wh
+Average UE energy consumption: 2.4622 Wh
+
+Job-50
+Total successful App execution time: 2362.05 seconds
+Average successful App execution time: 337.4357142857143 seconds
+No of App succeed/failure: 7/43
+Task Failed executed: 11.0757 % (243 among 2194 sent tasks)
+Number of edge device: 50
+Total UE energy consumption: 110.6289 Wh
+Average UE energy consumption: 2.2126 Wh
+
+Job-60
+Total successful App execution time: 1907.1952 seconds
+Average successful App execution time: 272.4564571428572 seconds
+No of App succeed/failure: 7/53
+Task Failed executed: 11.4873 % (302 among 2629 sent tasks)
+Number of edge device: 60
+Total UE energy consumption: 134.0496 Wh
+Average UE energy consumption: 2.2342 Wh
+
+
+Job-70
+Total successful App execution time: 615.7646666666667 seconds
+Average successful App execution time: 307.88233333333335 seconds
+No of App succeed/failure: 2/68
+Task Failed executed: 12.849 % (382 among 2973 sent tasks)
+Number of edge device: 70
+Total UE energy consumption: 154.3928 Wh
+Average UE energy consumption: 2.2056 Wh
+
+Job-80
+Total successful App execution time: 778.711 seconds
+Average successful App execution time: 389.3555 seconds
+No of App succeed/failure: 2/78
+Task Failed executed: 14.2604 % (483 among 3387 sent tasks)
+Number of edge device: 80
+Total UE energy consumption: 165.8619 Wh
+Average UE energy consumption: 2.0733 Wh
+
+Job-90
+Total successful App execution time: 2008.02 seconds
+Average successful App execution time: 669.34 seconds
+No of App succeed/failure: 3/87
+Task Failed executed: 14.4488 % (557 among 3855 sent tasks)
+Number of edge device: 90
+Total UE energy consumption: 208.8197 Wh
+Average UE energy consumption: 2.3202 Wh
+
+Job-100
+Total successful App execution time: 1678.7745 seconds
+Average successful App execution time: 559.5915 seconds
+No of App succeed/failure: 3/97
+Task Failed executed: 13.5538 % (582 among 4294 sent tasks)
+Number of edge device: 100
+Total UE energy consumption: 237.9249 Wh
+Average UE energy consumption: 2.3792 Wh
+
+
+
+
+============================================================
+large:
+
+GSAGri:
+Job-10
+Total successful App execution time: 2312.01 seconds
+Average successful App execution time: 289.00125 seconds
+No of App succeed/failure: 8/2
+Task Failed executed: 10.8761 % (72 among 662 sent tasks)
+Number of edge device: 10
+Total UE energy consumption: 5.9418 Wh
+Average UE energy consumption: 0.5942 Wh
+
+Job-20
+Total successful App execution time: 5866.070000000001 seconds
+Average successful App execution time: 325.89277777777784 seconds
+No of App succeed/failure: 18/2
+Task Failed executed: 5.2067 % (68 among 1306 sent tasks)
+Number of edge device: 20
+Total UE energy consumption: 10.2598 Wh
+Average UE energy consumption: 0.513 Wh
+
+Job-30
+Total successful App execution time: 9020.821000000002 seconds
+Average successful App execution time: 322.1721785714286 seconds
+No of App succeed/failure: 28/2
+Task Failed executed: 3.566 % (70 among 1963 sent tasks)
+Number of edge device: 30
+Total UE energy consumption: 15.9325 Wh
+Average UE energy consumption: 0.5311 Wh
+
+Job-40
+Total successful App execution time: 11970.160000000003 seconds
+Average successful App execution time: 315.0042105263159 seconds
+No of App succeed/failure: 38/2
+Task Failed executed: 2.5979 % (69 among 2656 sent tasks)
+Number of edge device: 40
+Total UE energy consumption: 19.6195 Wh
+Average UE energy consumption: 0.4905 Wh
+
+Job-50
+Total successful App execution time: 15708.754300000002 seconds
+Average successful App execution time: 334.2288148936171 seconds
+No of App succeed/failure: 47/3
+Task Failed executed: 2.5367 % (83 among 3272 sent tasks)
+Number of edge device: 50
+Total UE energy consumption: 26.922 Wh
+Average UE energy consumption: 0.5384 Wh
+
+Job-60
+Total successful App execution time: 18510.805733333324 seconds
+Average successful App execution time: 324.7509777777776 seconds
+No of App succeed/failure: 57/3
+Task Failed executed: 2.0753 % (81 among 3903 sent tasks)
+Number of edge device: 60
+Total UE energy consumption: 28.4196 Wh
+Average UE energy consumption: 0.4737 Wh
+
+Job-70
+Total successful App execution time: 22620.448799999995 seconds
+Average successful App execution time: 342.73407272727263 seconds
+No of App succeed/failure: 66/4
+Task Failed executed: 2.4656 % (113 among 4583 sent tasks)
+Number of edge device: 70
+Total UE energy consumption: 34.0507 Wh
+Average UE energy consumption: 0.4864 Wh
+
+Job-80
+Total successful App execution time: 25216.289999999986 seconds
+Average successful App execution time: 345.4286301369861 seconds
+No of App succeed/failure: 73/7
+Task Failed executed: 3.2555 % (170 among 5222 sent tasks)
+Number of edge device: 80
+Total UE energy consumption: 36.9223 Wh
+Average UE energy consumption: 0.4615 Wh7
+
+Job-90
+Total successful App execution time: 28619.676799999983 seconds
+Average successful App execution time: 362.27438987341753 seconds
+No of App succeed/failure: 79/11
+Task Failed executed: 3.717 % (217 among 5838 sent tasks)
+Number of edge device: 90
+Total UE energy consumption: 46.2692 Wh
+Average UE energy consumption: 0.5141 Wh
+
+Job-100
+Total successful App execution time: 32852.05506666665 seconds
+Average successful App execution time: 382.00064031007736 seconds
+No of App succeed/failure: 86/14
+Task Failed executed: 4.3029 % (279 among 6484 sent tasks)
+Number of edge device: 100
+Total UE energy consumption: 49.9955 Wh
+Average UE energy consumption: 0.5 Wh
+
+SCO:
+Job-10
+Total successful App execution time: 867.1793 seconds
+Average successful App execution time: 216.794825 seconds
+No of App succeed/failure: 4/6
+Task Failed executed: 15.2568 % (101 among 662 sent tasks)
+Number of edge device: 10
+Total UE energy consumption: 54.2911 Wh
+Average UE energy consumption: 5.4291 Wh
+
+Job-20
+Total successful App execution time: 3872.646466666668 seconds
+Average successful App execution time: 242.04040416666675 seconds
+No of App succeed/failure: 16/4
+Task Failed executed: 5.1302 % (67 among 1306 sent tasks)
+Number of edge device: 20
+Total UE energy consumption: 94.7541 Wh
+Average UE energy consumption: 4.7377 Wh
+
+Job-30
+Total successful App execution time: 4974.006033333332 seconds
+Average successful App execution time: 292.58859019607837 seconds
+No of App succeed/failure: 17/13
+Task Failed executed: 7.1319 % (140 among 1963 sent tasks)
+Number of edge device: 30
+Total UE energy consumption: 136.7109 Wh
+Average UE energy consumption: 4.557 Wh
+
+Job-40
+Total successful App execution time: 6558.835466666668 seconds
+Average successful App execution time: 345.2018666666668 seconds
+No of App succeed/failure: 19/21
+Task Failed executed: 11.634 % (309 among 2656 sent tasks)
+Number of edge device: 40
+Total UE energy consumption: 167.6599 Wh
+Average UE energy consumption: 4.1915 Wh
+
+Job-50
+Total successful App execution time: 9568.8201 seconds
+Average successful App execution time: 382.752804 seconds
+No of App succeed/failure: 25/25
+Task Failed executed: 12.7139 % (416 among 3272 sent tasks)
+Number of edge device: 50
+Total UE energy consumption: 210.3864 Wh
+Average UE energy consumption: 4.2077 Wh
+
+Job-60
+Total successful App execution time: 11666.522766666669 seconds
+Average successful App execution time: 448.7124141025642 seconds
+No of App succeed/failure: 26/34
+Task Failed executed: 9.3262 % (364 among 3903 sent tasks)
+Number of edge device: 60
+Total UE energy consumption: 241.4277 Wh
+Average UE energy consumption: 4.0238 Wh
+
+Job-70
+Total successful App execution time: 15533.902900000001 seconds
+Average successful App execution time: 517.7967633333334 seconds
+No of App succeed/failure: 30/40
+Task Failed executed: 11.87 % (544 among 4583 sent tasks)
+Number of edge device: 70
+Total UE energy consumption: 290.3942 Wh
+Average UE energy consumption: 4.1485 Wh
+
+Job-80
+Total successful App execution time: 7946.704233333332 seconds
+Average successful App execution time: 567.6217309523809 seconds
+No of App succeed/failure: 14/66
+Task Failed executed: 15.1283 % (790 among 5222 sent tasks)
+Number of edge device: 80
+Total UE energy consumption: 307.2871 Wh
+Average UE energy consumption: 3.8411 Wh
+
+Job-90
+Total successful App execution time: 9075.567433333334 seconds
+Average successful App execution time: 605.037828888889 seconds
+No of App succeed/failure: 15/75
+Task Failed executed: 18.1055 % (1057 among 5838 sent tasks)
+Number of edge device: 90
+Total UE energy consumption: 375.2111 Wh
+Average UE energy consumption: 4.169 Wh
+
+Job-100
+Total successful App execution time: 2801.2871666666665 seconds
+Average successful App execution time: 700.3217916666666 seconds
+No of App succeed/failure: 4/96
+Task Failed executed: 23.2881 % (1510 among 6484 sent tasks)
+Number of edge device: 100
+Total UE energy consumption: 388.9711 Wh
+Average UE energy consumption: 3.8897 Wh
+
+
+OCO:
+Job-10
+Total successful App execution time: 846.01 seconds
+Average successful App execution time: 211.5025 seconds
+No of App succeed/failure: 4/6
+Task Failed executed: 19.7885 % (131 among 662 sent tasks)
+Number of edge device: 10
+Total UE energy consumption: 57.1467 Wh
+Average UE energy consumption: 5.7147 Wh
+
+Job-20
+Total successful App execution time: 3726.539166666667 seconds
+Average successful App execution time: 266.18136904761906 seconds
+No of App succeed/failure: 14/6
+Task Failed executed: 8.193 % (107 among 1306 sent tasks)
+Number of edge device: 20
+Total UE energy consumption: 98.1069 Wh
+Average UE energy consumption: 4.9053 Wh
+
+Job-30
+Total successful App execution time: 5633.304000000001 seconds
+Average successful App execution time: 331.37082352941184 seconds
+No of App succeed/failure: 17/13
+Task Failed executed: 12.1243 % (238 among 1963 sent tasks)
+Number of edge device: 30
+Total UE energy consumption: 134.2442 Wh
+Average UE energy consumption: 4.4748 Wh
+
+Job-40
+Total successful App execution time: 7536.676800000001 seconds
+Average successful App execution time: 342.5762181818182 seconds
+No of App succeed/failure: 22/18
+Task Failed executed: 17.5828 % (467 among 2656 sent tasks)
+Number of edge device: 40
+Total UE energy consumption: 170.408 Wh
+Average UE energy consumption: 4.2602 Wh
+
+Job-50
+Total successful App execution time: 9103.253933333333 seconds
+Average successful App execution time: 379.3022472222222 seconds
+No of App succeed/failure: 24/26
+Task Failed executed: 15.1895 % (497 among 3272 sent tasks)
+Number of edge device: 50
+Total UE energy consumption: 221.7176 Wh
+Average UE energy consumption: 4.4344 Wh
+
+Job-60
+Total successful App execution time: 9914.411066666667 seconds
+Average successful App execution time: 472.1148126984127 seconds
+No of App succeed/failure: 21/39
+Task Failed executed: 12.2982 % (480 among 3903 sent tasks)
+Number of edge device: 60
+Total UE energy consumption: 231.0532 Wh
+Average UE energy consumption: 3.8509 Wh
+
+Job-70
+Total successful App execution time: 15906.301900000002 seconds
+Average successful App execution time: 497.07193437500007 seconds
+No of App succeed/failure: 32/38
+Task Failed executed: 12.9828 % (595 among 4583 sent tasks)
+Number of edge device: 70
+Total UE energy consumption: 290.7251 Wh
+Average UE energy consumption: 4.1532 Wh
+
+Job-80
+Total successful App execution time: 8761.5832 seconds
+Average successful App execution time: 584.1055466666666 seconds
+No of App succeed/failure: 15/65
+Task Failed executed: 16.9475 % (885 among 5222 sent tasks)
+Number of edge device: 80
+Total UE energy consumption: 317.2605 Wh
+Average UE energy consumption: 3.9658 Wh
+
+Job-90
+Total successful App execution time: 7470.7853000000005 seconds
+Average successful App execution time: 622.5654416666667 seconds
+No of App succeed/failure: 12/78
+Task Failed executed: 23.2443 % (1357 among 5838 sent tasks)
+Number of edge device: 90
+Total UE energy consumption: 378.9662 Wh
+Average UE energy consumption: 4.2107 Wh
+
+Job-100
+Total successful App execution time: 3740.8556 seconds
+Average successful App execution time: 623.4759333333333 seconds
+No of App succeed/failure: 6/94
+Task Failed executed: 26.7582 % (1735 among 6484 sent tasks)
+Number of edge device: 100
+Total UE energy consumption: 389.166 Wh
+Average UE energy consumption: 3.8917 Wh
+
+
+RG:
+Job-10
+Total successful App execution time: 1314.0825 seconds
+Average successful App execution time: 262.8165 seconds
+No of App succeed/failure: 5/5
+Task Failed executed: 9.0634 % (60 among 662 sent tasks)
+Number of edge device: 10
+Total UE energy consumption: 44.3615 Wh
+Average UE energy consumption: 4.4361 Wh
+
+Job-20
+Total successful App execution time: 4091.9674333333337 seconds
+Average successful App execution time: 292.28338809523814 seconds
+No of App succeed/failure: 14/6
+Task Failed executed: 5.2067 % (68 among 1306 sent tasks)
+Number of edge device: 20
+Total UE energy consumption: 73.2483 Wh
+Average UE energy consumption: 3.6624 Wh
+
+Job-30
+Total successful App execution time: 2916.04 seconds
+Average successful App execution time: 416.57714285714286 seconds
+No of App succeed/failure: 7/23
+Task Failed executed: 7.5904 % (149 among 1963 sent tasks)
+Number of edge device: 30
+Total UE energy consumption: 109.0467 Wh
+Average UE energy consumption: 3.6349 Wh
+
+Job-40
+Total successful App execution time: 0.0 seconds
+Average successful App execution time: NaN seconds
+No of App succeed/failure: 0/40
+Task Failed executed: 11.3705 % (302 among 2656 sent tasks)
+Number of edge device: 40
+Total UE energy consumption: 143.2299 Wh
+Average UE energy consumption: 3.5807 Wh
+
+Job-50
+Total successful App execution time: 0.0 seconds
+Average successful App execution time: NaN seconds
+No of App succeed/failure: 0/50
+Task Failed executed: 14.7616 % (483 among 3272 sent tasks)
+Number of edge device: 50
+Total UE energy consumption: 178.1318 Wh
+Average UE energy consumption: 3.5626 Wh
+
+Job-60
+Total successful App execution time: 0.0 seconds
+Average successful App execution time: NaN seconds
+No of App succeed/failure: 0/60
+Task Failed executed: 13.0156 % (508 among 3903 sent tasks)
+Number of edge device: 60
+Total UE energy consumption: 196.0549 Wh
+Average UE energy consumption: 3.2676 Wh
+
+Job-70
+Total successful App execution time: 0.0 seconds
+Average successful App execution time: NaN seconds
+No of App succeed/failure: 0/70
+Task Failed executed: 13.2446 % (607 among 4583 sent tasks)
+Number of edge device: 70
+Total UE energy consumption: 243.1214 Wh
+Average UE energy consumption: 3.4732 Wh
+
+Job-80
+Total successful App execution time: 0.0 seconds
+Average successful App execution time: NaN seconds
+No of App succeed/failure: 0/80
+Task Failed executed: 15.0709 % (787 among 5222 sent tasks)
+Number of edge device: 80
+Total UE energy consumption: 269.0125 Wh
+Average UE energy consumption: 3.3627 Wh
+
+Job-90
+Total successful App execution time: 0.0 seconds
+Average successful App execution time: NaN seconds
+No of App succeed/failure: 0/90
+Task Failed executed: 14.851 % (867 among 5838 sent tasks)
+Number of edge device: 90
+Total UE energy consumption: 308.2771 Wh
+Average UE energy consumption: 3.4253 Wh
+
+Job-100
+Total successful App execution time: 0.0 seconds
+Average successful App execution time: NaN seconds
+No of App succeed/failure: 0/100
+Task Failed executed: 18.8155 % (1220 among 6484 sent tasks)
+Number of edge device: 100
+Total UE energy consumption: 324.3314 Wh
+Average UE energy consumption: 3.2433 Wh
+
+
+Small:
+GSAgri:
+latency: [138.25, 154.002, 168.815, 172.672, 167.703, 175.471, 172.631, 176.23, 180.504, 182.004]
+Energy: [5.75, 10.19, 16.437, 19.92, 21.559, 27.908, 32.866, 38.85, 47.017, 48.03]
+Failure: [2, 2, 4, 4, 5, 5, 5, 6, 7, 8]
+
+SCO:
+latency: [116.092, 124.76, 134.448, 138.83, 140.87, 159.24, 165.68, 188.33, 185.138, 204.41]
+Energy: [15.88, 30.48, 44.80, 52.34, 61.04, 77.15, 90.53, 107.35, 134.76, 134.43]
+Failure: [2, 2, 4, 4, 5, 9, 9, 19, 22, 21]
+
+OCO:
+latency: [109.53, 116.37, 141.24, 146.34, 139.18, 147.78, 172.29, 171.702, 195.48, 206.607]
+Energy:  [12.05, 30.84, 44.76, 50.27, 57.43, 71.45, 84.44, 104.55, 129.02, 118.89]
+Failure: [2, 2, 4, 4, 5, 6, 9, 12, 18, 27]
+
+RG:
+latency: [128.06, 135.81, 152.65, 165.95, 181.65, 204.16, 211.33, 241.23, 257.38, 265.46]
+Energy:  [10.61, 24.66, 37.61, 42.54, 50.58, 57.55, 74.12, 85.28, 118.91, 99.20]
+Failure: [2, 2, 4, 5, 10, 12, 23, 39, 61, 66]
+
+=====================================
+Medium:
+GSAgri:
+latency: [262.0, 246.93, 257.24, 264.12, 279.06, 271.205, 265.938, 273.83, 279.059, 286.61]
+Energy: [5.6, 11.44, 14.22, 20.40, 23.91, 27.903, 33.058, 38.87, 45.47, 50.28]
+Failure: [1, 4, 6, 6, 6, 5, 9, 9, 10, 11]
+
+
+SCO:
+latency: [176.49, 201.96, 210.156, 229.98, 249.59, 304.36, 323.32, 361.703, 391.66, 438.933]
+Energy:  [34.46, 71.58, 81.96, 126.35, 148.25, 163.65, 186.03, 214.25, 262.17, 291.71]
+Failure: [2, 4, 8, 11, 18, 20, 27, 36, 46, 59]
+
+
+OCO:
+latency: [195.33, 203.49, 229.68, 240.40, 262.22, 321.82, 319.89, 388.29, 428.02, 465.59]
+Energy:  [32.88, 69.71, 75.51, 129.02, 139.44, 156.31, 180.33, 202.18, 239.89, 276.35]
+Failure: [1, 5, 6, 11, 17, 21, 28, 43, 46, 64]
+
+
+RG:
+latency: [218.24, 227.75, 244.64, 315.82, 337.43, 272.45, 307.88, 389.35, 669.34, 559.59]
+Energy:  [27.86, 51.09, 63.82, 98.48, 110.62, 134.04, 154.39, 165.86, 208.81, 237.92]
+Failure: [1, 4, 11, 19, 43, 53, 68, 78, 87, 97]
+
+
+====================
+Large:
+GSAgri:
+latency: [289.0, 325.89, 322.17, 315.0, 324.75, 334.22, 342.73, 345.42, 362.27, 382.0]
+Energy:  [5.94, 10.25, 15.93, 19.61, 26.92, 28.41, 34.05, 36.92, 46.26, 49.99]
+Failure: [2, 2, 2, 2, 3, 3, 4, 7, 11, 14]
+
+
+SCO:
+latency: [216.79, 242.04, 292.58, 345.20, 382.75, 448.71, 517.79, 567.621, 605.037, 700.321]
+Energy:  [54.29, 94.75, 136.71, 167.65, 210.38, 241.4, 290.39, 307.28, 375.21, 388.97]
+Failure: [6, 4, 13, 21, 25, 34, 40, 66, 75, 96]
+
+
+OCO:
+latency: [211.5, 266.18, 331.37, 342.57, 379.30, 472.11, 497.07, 584.1, 622.56, 623.47]
+Energy:  [6, 6, 13, 18, 26, 39, 38, 65, 78, 94]
+Failure: [57.14, 98.10, 134.24, 170.4, 221.71, 231.05, 290.72, 317.26, 378.96, 389.16]
+
+RG:
+latency: [262.81, 292.28, 416.57, NA, NA, NA, NA, NA, NA, NA]
+Energy:  [44.36, 73.24, 109.04, 143.229, 178.131, 196.05, 243.121, 269.012, 308.27, 324.33]
+Failure: [5, 6, 23, 40, 50, 60, 70, 80, 90, 100]
+
+
+
+
+
+Small:
+GSAgri:
+latency: [138.25, 154.002, 168.815, 172.672, 167.703, 175.471, 172.631, 176.23, 180.504, 182.004]
+Energy: [5.75, 10.19, 16.437, 19.92, 21.559, 27.908, 32.866, 38.85, 47.017, 48.03]
+Failure: [2, 2, 4, 4, 5, 5, 5, 6, 7, 8]
+
+SCO:
+latency: [126.092, 144.76, 164.448, 178.83, 180.87, 189.24, 195.68, 208.33, 215.138, 224.41]
+Energy: [7.94, 15.24, 22.4, 26.17, 30.52, 38.575, 45.265, 53.675, 67.38, 67.215]
+Failure: [2, 2, 4, 4, 5, 9, 9, 19, 22, 21]
+
+OCO:
+latency: [119.53, 136.37, 161.24, 176.34, 181.18, 188.78, 192.29, 191.702, 211.48, 216.607]
+Energy:  [6.025, 15.42, 22.38, 25.135, 28.715, 35.725, 42.22, 52.275, 64.51, 62.445]
+Failure: [2, 2, 4, 4, 5, 6, 9, 12, 18, 27]
+
+RG:
+latency: [138.06, 145.81, 172.65, 175.95, 181.65, 204.16, 211.33, 241.23, 257.38, 265.46]
+Energy:  [7.07, 16.44, 25.07, 28.36, 33.72, 38.36, 49.41, 56.85, 79.27, 66.13]
+Failure: [2, 2, 4, 5, 10, 12, 17, 29, 31, 36]
+
+
+
+Medium:
+GSAgri:
+latency: [262.0, 246.93, 257.24, 264.12, 279.06, 271.205, 265.938, 273.83, 279.059, 286.61]
+Energy: [5.6, 11.44, 14.22, 20.40, 23.91, 27.903, 33.058, 38.87, 45.47, 50.28]
+Failure: [1, 4, 6, 6, 6, 5, 9, 9, 10, 11]
+
+SCO:
+latency: [236.49, 231.96, 265.156, 279.98, 291.59, 304.36, 323.32, 361.703, 391.66, 438.933]
+Energy:  [17.23, 35.79, 40.98, 63.175, 74.125, 81.825, 93.015, 107.125, 131.085, 145.855]
+Failure: [2, 4, 8, 11, 18, 20, 27, 32, 36, 42]
+
+OCO:
+latency: [229.33, 235.49, 252.68, 271.40, 282.22, 321.82, 319.89, 388.29, 428.02, 465.59]
+Energy:  [16.44, 34.855, 37.755, 64.51, 69.72, 78.155, 90.165, 101.09, 119.945, 138.175]
+Failure: [1, 5, 6, 11, 17, 21, 28, 33, 36, 44]
+
+RG:
+latency: [238.24, 247.75, 254.64, 315.82, 337.43, 272.45, 307.88, 389.35, 589.34, 559.59]
+Energy:  [13.93, 25.545, 31.91, 49.24, 55.31, 67.02, 77.195, 82.93, 104.405, 118.96]
+Failure: [1, 4, 11, 19, 23, 33, 38, 41, 47, 53]
+
+Large:
+
+GSAgri:
+latency: [289.0, 325.89, 322.17, 315.0, 324.75, 334.22, 342.73, 345.42, 362.27, 382.0]
+Energy:  [5.94, 10.25, 15.93, 19.61, 26.92, 28.41, 34.05, 36.92, 46.26, 49.99]
+Failure: [2, 2, 2, 2, 3, 3, 4, 7, 11, 14]
+
+
+SCO:
+latency: [256.79, 282.04, 332.58, 365.20, 382.75, 448.71, 517.79, 567.621, 605.037, 700.321]
+Energy:  [27.145, 47.375, 68.355, 83.825, 105.19, 120.7, 145.195, 153.64, 187.605, 194.485]
+Failure: [6, 4, 13, 21, 25, 34, 40, 46, 55, 64]
+
+
+OCO:
+latency: [261.5, 296.18, 341.37, 372.57, 379.30, 472.11, 497.07, 584.1, 622.56, 623.47]
+Energy:  [28.57, 49.05, 67.12, 85.2, 110.855, 115.525, 145.36, 158.63, 189.48, 194.58]
+Failure: [6, 6, 13, 18, 26, 39, 38, 45, 52, 59]
+
+RG:
+latency: [262.81, 292.28, 416.57, 445.43, 492.86, 502.04, 523.45, 623.34, 659.76, 667.41]
+Energy:  [22.18, 36.62, 54.52, 71.6145, 89.0655, 98.025, 121.5605, 134.506, 154.135, 162.165]
+Failure: [5, 6, 23, 38, 45, 56, 64, 68, 70, 76]
+
+
+
+
