@@ -20,7 +20,7 @@ Bibtex:
 Steps:
 1. Clone the source code to local directory.
 2. Use a proper IDE such as IntelliJ IDEA
-3. The main class is ReliabilityMain (ReliabilityMain.java)
+3. The main class is EhdHipc (EhdHipc.java)
 4. We need to uncomment coresponding the strategy to test and comment the rest.
 5. Dataset is loaded by class DataProcessor (DataProcessor.java)
    a. Need to download the DAG dataset from zenodo (https://zenodo.org/records/6373666) and provide the correct path in the class DataProcessor.
